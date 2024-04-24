@@ -1,10 +1,10 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
+site_name: 'ESIIL Pre-Summit Training Test'
+site_description: 'GitHub Basics'
+site_author: Ming
 site_url: https://cu-esiil.github.io/summit-test
 
 # Repository
-repo_name: Postdoc_OASIS
+repo_name: Summit Test
 repo_url: https://github.com/mp05a/summit-test
 edit_uri: edit/main/docs/
 # Copyright
